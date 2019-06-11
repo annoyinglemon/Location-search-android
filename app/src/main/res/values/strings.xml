@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AddressSearch</string>
+    <string name="title_activity_maps">Location Search</string>
+    <string name="hint_address_search">Try a street or city address</string>
+    <string name="suggestions_will_show_here">Suggestions will show here</string>
+
+</resources>

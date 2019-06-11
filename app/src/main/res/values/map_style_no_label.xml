@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="map_style_no_label">
+      [
+        {
+          \"elementType\": \"labels\",
+          \"stylers\": [
+            {
+              \"visibility\": \"off\"
+            }
+          ]
+        },
+        {
+          \"featureType\": \"administrative.land_parcel\",
+          \"stylers\": [
+            {
+              \"visibility\": \"off\"
+            }
+          ]
+        },
+        {
+          \"featureType\": \"administrative.neighborhood\",
+          \"stylers\": [
+            {
+              \"visibility\": \"off\"
+            }
+          ]
+        }
+      ]
+    </string>
+</resources>
